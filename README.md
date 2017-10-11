@@ -22,8 +22,8 @@ As stated in th project description, from the project top directory:
 ## Results
 As it can be seen in the next figures, ```px, py, vx, vy``` output coordinates have an **RMSE <= [.11, .11, 0.52, 0.52]** when using the file: _obj_pose-laser-radar-synthetic-input.txt_ which is the same data file the simulator uses for Dataset 1.
 
-![Alt text](CarND-Extended-Kalman-Filter-Project/images/DS1_Result.jpg?raw=true "RMSE for Dataset 1")
+![Alt text](/images/DS1_Result.jpg?raw=true "RMSE for Dataset 1")
 
-![Alt text](CarND-Extended-Kalman-Filter-Project/images/DS2_Result.jpg?raw=true "RMSE for Dataset 2")
+![Alt text](/images/DS2_Result.jpg?raw=true "RMSE for Dataset 2")
 
 As it can be seen, both meet specifications.
